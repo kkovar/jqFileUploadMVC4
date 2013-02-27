@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="jqFileUploadMVC4.MvcApplication" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="jQuery_File_Upload.MVC4.Upload.MvcApplication" Language="C#" %>
